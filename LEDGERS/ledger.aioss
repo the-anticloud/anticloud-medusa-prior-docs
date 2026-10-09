@@ -1,0 +1,9 @@
+# AIOSS ledger v1
+# project: CLOTHING_RETAIL/MEDUSA_PRIOR_DOCS
+# records: 5
+# head: 8bfd6042f75bc8bfe483c8390b41b157323ada0c50b51a41c77f00759ef3d121
+{"digest": "e2856ae60dd75225ba293197f79bed83e359784972ac22c9f0dcb09163118328", "kind": "bench-report", "path": "BENCH.json", "payload_sha3": "c54c77fa06adb83077eac258192a58956be7f8ed11ec1c754789d742227d895d", "prev": "5a5a9db5fb708ae61804306200e7a9e31853dde596c5f14d2303d4349fe14b2d", "seq": 0, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "dea9b8874db561a3af0b7caf9a4ac4836e61296e17234a2e545d0857aa7359c5", "kind": "result-register", "path": "ISOLATED_LAB_RESULTS/03_Result_Register.md", "payload_sha3": "db9d9cb67e95748ddece78643d3eb5b389dce7342b08e10e9a333ba411805768", "prev": "e2856ae60dd75225ba293197f79bed83e359784972ac22c9f0dcb09163118328", "seq": 1, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "088faed36a64368ca46f0f929618a2eedb1be3c3fb844ce53b747b1d9881e6cd", "kind": "readme", "path": "README.md", "payload_sha3": "9e2b0d7862e53fbd0c3c12350aa0eb4a1dde664c777a5c2f01bb09009c458e84", "prev": "dea9b8874db561a3af0b7caf9a4ac4836e61296e17234a2e545d0857aa7359c5", "seq": 2, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "42087d66f8de4c91c2ccdc8c5776b6859e6154ed552ba7ed56d9ad05ecc40b4a", "kind": "licence", "path": "ANTICOMMONS_LICENSE.md", "payload_sha3": "4881a55d1c8002778d8517ed1ba32d4fbaf181b4ac7e79a8b7c02c2750c13b77", "prev": "088faed36a64368ca46f0f929618a2eedb1be3c3fb844ce53b747b1d9881e6cd", "seq": 3, "ts": "2026-10-09T05:52:47Z"}
+{"digest": "8bfd6042f75bc8bfe483c8390b41b157323ada0c50b51a41c77f00759ef3d121", "kind": "notice", "path": "NOTICE", "payload_sha3": "c4bf8f597abe7ca2a81ce851ad5ab55715093c1c30af18846300a5f3b84601e2", "prev": "42087d66f8de4c91c2ccdc8c5776b6859e6154ed552ba7ed56d9ad05ecc40b4a", "seq": 4, "ts": "2026-10-09T05:52:47Z"}
